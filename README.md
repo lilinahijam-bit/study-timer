@@ -1,18 +1,31 @@
-# Study Cooking Timer 🍳
+# 🍳 Study Cooking Timer
 
-A simple productivity web app that tracks study time like cooking.
+A fun productivity web app that tracks study time like cooking.
 
-## Features
-- ⏱️ Timer system
-- 🍳 Cooking-style feedback (undercooked / perfect / overcooked)
+## 🚀 Features
+- ⏱️ Real-time study timer
+- 🍞 Undercooked / 🍳 Perfect / 🔥 Overcooked feedback
+- 🎯 Score system
 - 📊 Study progress chart
-- 💾 Data saved using local storage
+- 💾 Data stored using localStorage
 
-## Tech Used
+## 🛠️ Tech Stack
 - HTML
 - CSS
 - JavaScript
 - Chart.js
 
-## How to Run
-Open index.html in browser
+## 📷 Preview
+(Add screenshot here later)
+
+## ▶️ How to Run
+1. Download the project
+2. Open index.html in browser
+
+## 📌 Future Improvements
+- 📱 Mobile app version
+- 🔔 Study reminders
+- 🌙 Dark mode
+
+## 👤 Author
+Your Name
