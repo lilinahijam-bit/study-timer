@@ -16,7 +16,7 @@ A fun productivity web app that tracks study time like cooking.
 - Chart.js
 
 ## 📷 Preview
-(Add screenshot here later)
+![App Screenshot](preview.png)
 
 ## ▶️ How to Run
 1. Download the project
